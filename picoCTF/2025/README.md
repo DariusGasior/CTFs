@@ -65,7 +65,7 @@
 |Rust fixme 1|Easy|100||
 |Rust fixme 2|Easy|100||
 |Rust fixme 3|Easy|100||
-|YaraRules0x100|Medium|200|2025-03-14 21:20|
+|[YaraRules0x100](General%20Skills/YaraRules0x100)|Medium|200|2025-03-14 21:20|
 
 ### Reverse Engineering
 

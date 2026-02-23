@@ -19,3 +19,9 @@
 |[picoCTF 2024](picoCTF/2024)|1702|1825|-|2024-03-12|
 |[picoCTF 2023](picoCTF/2023)|3180|1200|-|2023-03-14|
 ---
+## Writeups
+|Challenge|Category|Event|
+| :--- | :--- | :--- |
+|[YaraRules0x100](picoCTF/2025/General%20Skills/YaraRules0x100/writeup.md)|General Skills|[picoCTF 2025](picoCTF/2025)|
+|[Heap 0](picoCTF/2024/Binary%20Exploitation/heap%200/writeup.md)|Binary Exploitation|[picoCTF 2024](picoCTF/2024)|
+---
