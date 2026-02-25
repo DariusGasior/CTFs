@@ -28,9 +28,9 @@
 
 |Challenge|Difficulty|Points|Solved|
 |---| :---: | :---: | --- |
-|PIE TIME|Easy|75||
+|PIE TIME|Easy|75|Post Event|
 |hash-only-1|Medium|100|2025-03-12 09:01|
-|hash-only-2|Medium|200||
+|hash-only-2|Medium|200|Post Event|
 |PIE TIME 2|Medium|200||
 |Echo Valley|Medium|300||
 |handoff|Hard|400||
@@ -39,10 +39,10 @@
 
 |Challenge|Difficulty|Points|Solved|
 |---| :---: | :---: | --- |
-|hashcrack|Easy|100||
-|EVEN RSA CAN BE BROKEN???|Easy|200||
+|hashcrack|Easy|100|Post Event|
+|EVEN RSA CAN BE BROKEN???|Easy|200|Post Event|
 |Guess My Cheese (Part 1)|Medium|200|2025-03-15 19:14|
-|Guess My Cheese (Part 2)|Medium|300||
+|Guess My Cheese (Part 2)|Medium|300|Post Event|
 |ChaCha Slide|Hard|400||
 |Ricochet|Hard|500||
 
@@ -50,8 +50,8 @@
 
 |Challenge|Difficulty|Points|Solved|
 |---| :---: | :---: | --- |
-|Ph4nt0m 1ntrud3r|Easy|50||
-|RED|Easy|100||
+|Ph4nt0m 1ntrud3r|Easy|50|Post Event|
+|RED|Easy|100|Post Event|
 |flags are stepic|Medium|100|2025-03-12 12:12|
 |Bitlocker-1|Medium|200||
 |Event-Viewing|Medium|200||
@@ -62,9 +62,9 @@
 |Challenge|Difficulty|Points|Solved|
 |---| :---: | :---: | --- |
 |FANTASY CTF|Easy|10|2025-03-08 09:04|
-|Rust fixme 1|Easy|100||
-|Rust fixme 2|Easy|100||
-|Rust fixme 3|Easy|100||
+|Rust fixme 1|Easy|100|Post Event|
+|Rust fixme 2|Easy|100|Post Event|
+|Rust fixme 3|Easy|100|Post Event|
 |[YaraRules0x100](General%20Skills/YaraRules0x100)|Medium|200|2025-03-14 21:20|
 
 ### Reverse Engineering
@@ -86,9 +86,9 @@
 |Cookie Monster Secret Recipe|Easy|50|2025-03-08 17:24|
 |head-dump|Easy|50|2025-03-08 17:30|
 |n0s4n1ty 1|Easy|100|2025-03-08 17:40|
-|SSTI1|Easy|100||
+|SSTI1|Easy|100|Post Event|
 |WebSockFish|Medium|200|2025-03-15 23:02|
-|3v@l|Medium|200||
+|3v@l|Medium|200|Post Event|
 |SSTI2|Medium|200||
 |Apriti sesamo|Medium|300||
 |Pachinko|Medium|300|2025-03-14 21:42|
