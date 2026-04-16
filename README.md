@@ -24,6 +24,7 @@
 ## Writeups
 |Challenge|Category|Event|
 | :--- | :--- | :--- |
+|[Pizza Router](picoCTF/2026/Binary%20Exploitation/Pizza%20Router/writeup.md)|Binary Exploitation|[picoCTF 2026](picoCTF/2026)|
 |[YaraRules0x100](picoCTF/2025/General%20Skills/YaraRules0x100/writeup.md)|General Skills|[picoCTF 2025](picoCTF/2025)|
 |[Heap 0](picoCTF/2024/Binary%20Exploitation/heap%200/writeup.md)|Binary Exploitation|[picoCTF 2024](picoCTF/2024)|
 ---
