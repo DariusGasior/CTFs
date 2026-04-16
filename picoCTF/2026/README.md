@@ -35,7 +35,7 @@
 |Heap Havoc|Hard|200|2026-03-14 23:04|
 |offset-cycle|Medium|300|2026-03-13 21:11|
 |offset-cycleV2|Hard|400|2026-03-14 22:58|
-|Pizza Router|Hard|400|Post Event|
+|[Pizza Router](Binary%20Exploitation/Pizza%20Router/)|Hard|400|Post Event|
 
 ### Blockchain
 

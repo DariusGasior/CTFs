@@ -31,7 +31,7 @@
 |PIE TIME|Easy|75|Post Event|
 |hash-only-1|Medium|100|2025-03-12 09:01|
 |hash-only-2|Medium|200|Post Event|
-|PIE TIME 2|Medium|200||
+|PIE TIME 2|Medium|200|Post Event|
 |Echo Valley|Medium|300||
 |handoff|Hard|400||
 
@@ -89,7 +89,7 @@
 |SSTI1|Easy|100|Post Event|
 |WebSockFish|Medium|200|2025-03-15 23:02|
 |3v@l|Medium|200|Post Event|
-|SSTI2|Medium|200||
+|SSTI2|Medium|200|Post Event|
 |Apriti sesamo|Medium|300||
 |Pachinko|Medium|300|2025-03-14 21:42|
 |Pachinko Revisited|Hard|500||
