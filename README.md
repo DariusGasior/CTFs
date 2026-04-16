@@ -25,6 +25,12 @@
 |Challenge|Category|Event|
 | :--- | :--- | :--- |
 |[Pizza Router](picoCTF/2026/Binary%20Exploitation/Pizza%20Router/writeup.md)|Binary Exploitation|[picoCTF 2026](picoCTF/2026)|
+|[Secure Config](TRISS_CTF/2025/Cryptography/Intermediate%202/Secure%20Config/Walkthrough.md)|Cryptography|[TRISS 2025](TRISS_CTF/2025/)|
+|[Haunted CTF](TRISS_CTF/2025/Misc/Beginner%201/Haunted%20CTF/Walkthrough.md)|Misc|[TRISS 2025](TRISS_CTF/2025/)|
+|[Who Knew](TRISS_CTF/2025/Misc/Intermediate/Who%20Knew/Walkthrough.md)|Misc|[TRISS 2025](TRISS_CTF/2025/)|
+|[The Arts](TRISS_CTF/2025/Rev/Beginner/The%20Arts/Walkthrough.md)|Rev|[TRISS 2025](TRISS_CTF/2025/)|
+|[Really Subtle](TRISS_CTF/2025/Steganography/Intermediate/Really%20Subtle/Walkthrough.md)|Steganography|[TRISS 2025](TRISS_CTF/2025/)|
+|[EliteVault](TRISS_CTF/2025/Web/Intermediate/EliteVault/Walkthrough.md)|Web|[TRISS 2025](TRISS_CTF/2025/)|
 |[YaraRules0x100](picoCTF/2025/General%20Skills/YaraRules0x100/writeup.md)|General Skills|[picoCTF 2025](picoCTF/2025)|
 |[Heap 0](picoCTF/2024/Binary%20Exploitation/heap%200/writeup.md)|Binary Exploitation|[picoCTF 2024](picoCTF/2024)|
 ---
